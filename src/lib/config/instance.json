@@ -26,7 +26,7 @@
     "accentColor": "#eb008bff",
     "backgroundColor": "#ffffffff",
     "mapProps": {
-        "style": "mapbox://styles/ericrobskyhuntley/cljrocy4m017701pa1j212ahy",
+        "style": "mapbox://styles/mapbox/streets-v12",
         "center": [-120, 42],
         "maxBounds": [
             [-179,19], 
